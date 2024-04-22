@@ -87,7 +87,7 @@ To run the fund transfer scheduler script, follow these steps:
 6. Save the script and execute it using Python:
 
     ```bash
-    python main.py
+     python your_script.py
     ```
 
 This will run the script and display the transfer schedules on the console.
